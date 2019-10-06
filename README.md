@@ -20,6 +20,9 @@
 
 # 常用GPG命令
 
+## 生成GPG密钥
+  `gpg --full-generate-key`
+
 ## 列出所有GPG密钥
   `gpg --list-secret-keys --keyid-format LONG`
 
